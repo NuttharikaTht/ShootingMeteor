@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8729E09B-7BAA-4830-B4FD-825002A49CB5}|Default">
+  <MonoDevelop.Ide.ItemProperties.BobbleShooter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BobbleShooter/bubbleShooter.cs">
+    <Files>
+      <File FileName="BobbleShooter/bubbleShooter.cs" Line="317" Column="11" />
+      <File FileName="BobbleShooter/AdministratorLevels.cs" Line="41" Column="83" />
+      <File FileName="BobbleShooter/gameLevels.txt" Line="19" Column="13" />
+      <File FileName="BobbleShooter/Particle.cs" Line="16" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BobbleShooter" expanded="True">
+            <Node name="BobbleShooter" expanded="True">
+              <Node name="bubbleShooter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

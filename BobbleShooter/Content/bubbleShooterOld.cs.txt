@@ -1,0 +1,309 @@
+﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
+
+using System;
+using System.Collections.Generic;
+
+namespace BobbleShooter
+{
+    public class bubbleShooter : Game
+    {
+        private GraphicsDeviceManager _graphics;
+        private SpriteBatch _spriteBatch;
+
+        public static Int32 bubbleSize = 60;
+
+        public static Int32 limitRight = 570;
+        public static Int32 limitLeft = 30;
+        public static Int32 limitUp = 20;
+        public static Int32 limitDown = 440;
+
+        public Vector2 positionBubbleLaunch;
+        public static List<Bubble> bubbleStuck { get; private set; }
+       
+        
+        Vector2 locationPointer;
+
+        Texture2D launcher;
+        Texture2D bubble;
+        Texture2D pointText;
+
+        Bubble bubbleLaunched;
+
+        float elapsed;
+        float rotation;
+
+        public bubbleShooter()
+        {
+            _graphics = new GraphicsDeviceManager(this);
+            Content.RootDirectory = "Content";
+            IsMouseVisible = true;
+        }
+        private Vector2 bubbleBox(int cx, int cy)
+        {
+            Rectangle dRect = new Rectangle((cx * bubbleSize) + limitLeft +
+                ((cy % 2) * (bubbleSize / 2)),
+                (int)cy * bubbleSize + limitUp, bubbleSize, bubbleSize);
+
+            return new Vector2(dRect.X, dRect.Y);
+        }
+        public void pasteBubble(Bubble bubble)
+        {
+            List<Bubble> groupEquals = bubble.findEquals();
+            if (groupEquals.Count < 3)
+            {
+                bubble.Position = bubbleBox((Int32)bubble.positionBox.X, (Int32)bubble.positionBox.Y);
+                bubbleStuck.Add(bubble);
+            }
+            else
+            {
+                bubble.Position = bubbleBox((Int32)bubble.positionBox.X, (Int32)bubble.positionBox.Y);
+                bubbleStuck.Add(bubble);
+            }
+        }
+
+        public void generateBubble()
+        {
+            Int32 color = new Random().Next(0, 4);
+            Color bubbleColor = new Color();
+            switch (color)
+            {
+                case 0:
+                    bubbleColor = Color.Red;
+                    break;
+                case 1:
+                    bubbleColor = Color.Blue;
+                    break;
+                case 2:
+                    bubbleColor = Color.Green;
+                    break;
+                case 3:
+                    bubbleColor = Color.Yellow;
+                    break;
+            }
+            bubbleLaunched = new Bubble(positionBubbleLaunch, bubbleColor);
+        }
+
+        protected override void Initialize()
+        {
+            // TODO: Add your initialization logic here
+            _graphics.PreferredBackBufferWidth = 600;
+            _graphics.PreferredBackBufferHeight = 600;
+            _graphics.ApplyChanges();
+
+            locationPointer = new Vector2(300, 500);
+            rotation = 0f;
+            elapsed = 0f;
+
+            //bubble สำหรับยิง
+            positionBubbleLaunch = new Vector2(300-30, 500-30);
+            bubbleLaunched = new Bubble(new Vector2(300-30, 500-30), Color.Red);
+            //generateBubble();
+            bubbleStuck = new List<Bubble>();
+
+            base.Initialize();
+        }
+
+        protected override void LoadContent()
+        {
+            _spriteBatch = new SpriteBatch(GraphicsDevice);
+
+            // TODO: use this.Content to load your game content here
+            _spriteBatch = new SpriteBatch(GraphicsDevice);
+            launcher = this.Content.Load<Texture2D>("Arrow");
+            bubble = this.Content.Load<Texture2D>("Bubble");
+            pointText = this.Content.Load<Texture2D>("pointText");
+        }
+
+
+        protected override void Update(GameTime gameTime)
+        {
+            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
+                Exit();
+
+            // TODO: Add your update logic here
+
+            elapsed += (float)gameTime.ElapsedGameTime.TotalSeconds;
+
+            bubbleLaunched.Mover();
+            if ((limitUp <= bubbleLaunched.Position.Y || bubbleLaunched.Position.Y <= limitDown) && (bubbleLaunched.Position.X == limitRight - 60 || bubbleLaunched.Position.X == limitLeft + 60))
+            {
+                bubbleLaunched.Direction.X *= -1;
+                
+            }
+
+            if (elapsed > 0.05f)
+            {
+                if (Keyboard.GetState().IsKeyDown(Keys.Left))
+                {
+                    rotation -= 0.1f;
+                }
+                if (Keyboard.GetState().IsKeyDown(Keys.Right))
+                {
+                    rotation += 0.1f;
+                }
+                elapsed = 0f;
+            }
+            bubbleLaunched.Mover();
+            if (bubbleLaunched.Position.Y == limitUp && (limitLeft <= bubbleLaunched.Position.X || bubbleLaunched.Position.X <= limitRight))
+            {
+                //ชนเพดาน
+                bubbleLaunched.Direction = Vector2.Zero;
+                bubbleLaunched.findNearest();
+                bubbleStuck.Add(bubbleLaunched);
+                bubbleLaunched = null;
+            }
+
+            /*bubbleLaunched.Mover();
+            if (bubbleLaunched.Position.Y == limitUp)
+            {
+                //ชนเพดาน
+                bubbleLaunched.Direction = Vector2.Zero;
+                bubbleLaunched.findNearest();
+                bubbleStuck.Add(bubbleLaunched);
+                bubbleLaunched = null;
+            }*/
+
+            if (bubbleLaunched == null)
+            {
+                generateBubble();
+            }
+
+            if (Keyboard.GetState().IsKeyDown(Keys.Space))
+            {
+                bubbleLaunched.moving = true;
+
+                Matrix matrix = Matrix.CreateRotationZ(rotation);
+                bubbleLaunched.Direction.X += matrix.M12 * 1.5f;
+                bubbleLaunched.Direction.Y -= matrix.M11 * 1.5f;
+
+            }
+
+            base.Update(gameTime);
+        }
+      
+
+        protected override void Draw(GameTime gameTime)
+        {
+            GraphicsDevice.Clear(Color.CornflowerBlue);
+            _spriteBatch.Begin();
+            _spriteBatch.Draw(pointText, new Rectangle(limitLeft, limitUp, limitRight - limitLeft, limitDown), Color.Blue);
+
+            for(int y = 0; y < 8; y++)
+            {
+                for(int x = 0; x<10; x++)
+                {
+                    //draw rect
+                    Rectangle dRect = new Rectangle((x * bubbleSize) + limitLeft + ((y % 2) * (bubbleSize / 2)), (y * bubbleSize) + limitUp, bubbleSize, bubbleSize);
+                    //draw line
+                    if (x < 9)
+                    {
+                        _spriteBatch.Draw(pointText, new Rectangle(dRect.X, dRect.Y, bubbleSize, 1), Color.Red);
+                    }
+                    if (y < 7)
+                    {
+                        _spriteBatch.Draw(pointText, new Rectangle(dRect.X, dRect.Y, 1, bubbleSize), Color.Red);
+                    }
+                }
+            }
+
+            _spriteBatch.Draw(launcher, locationPointer, null, Color.White, rotation, new Vector2(launcher.Width / 2, launcher.Height / 2), 1f, SpriteEffects.None, 1);
+
+            if(bubbleLaunched != null)
+            {
+                _spriteBatch.Draw(bubble, bubbleLaunched.Position, bubbleLaunched.Color);
+            }
+            //_spriteBatch.Draw(bubble, bubbleLaunched.Position, bubbleLaunched.Color);
+
+            foreach (Bubble bb in bubbleStuck)
+            {
+                _spriteBatch.Draw(bubble, bb.Position, null, bb.Color, 0f, Vector2.Zero, 1f, SpriteEffects.None, 1);
+            }
+       
+            _spriteBatch.End();
+         
+            base.Draw(gameTime);
+        }
+
+    }
+
+}
+
+
+
+
+
+
+
+        public List<Bubble> Neighbors;
+        public void findNeighbors()
+        {
+            Neighbors.Clear();
+            foreach (Bubble bubble in bubbleShooter.bubbleStuck)
+            {
+                if (checkNext(bubble))
+                {
+                    Neighbors.Add(bubble);
+                }
+            }
+        }
+        public bool checkNext(Bubble bubble)
+        {
+            if (bubble.pos_bubbleBox == new Vector2(pos_bubbleBox.X - ((pos_bubbleBox.Y + 1) % 2), pos_bubbleBox.Y - 1))
+            {
+                //check top left
+                return true;
+            }
+            else if (bubble.pos_bubbleBox == new Vector2(pos_bubbleBox.X - ((pos_bubbleBox.Y + 1) % 2) + 1, pos_bubbleBox.Y - 1))
+            {
+                // check top right
+                return true;
+            }
+
+            else if (bubble.pos_bubbleBox == new Vector2(pos_bubbleBox.X - 1, pos_bubbleBox.Y))
+            {
+                // check left
+                return true;
+            }
+            else if (bubble.pos_bubbleBox == new Vector2(pos_bubbleBox.X + 1, pos_bubbleBox.Y))
+            {
+                //check right
+                return true;
+            }
+            else if (bubble.pos_bubbleBox == new Vector2(pos_bubbleBox.X - ((pos_bubbleBox.Y + 1) % 2), pos_bubbleBox.Y + 1))
+            {
+                //check bottom left
+                return true;
+            }
+            else if (bubble.pos_bubbleBox == new Vector2(pos_bubbleBox.X + 1 - ((pos_bubbleBox.Y + 1) % 2), pos_bubbleBox.Y + 1))
+            {
+                // check bottom right
+                return true;
+            }
+            return false;
+        }
+
+        public bool destroyed = false;
+        public List<Bubble> findEquals()
+        {
+            List<Bubble> list = new List<Bubble>();
+            list.Add(this);
+            this.destroyed = true;
+            //recursive ;; check for same color
+            findEquals(list, this);
+            return list;
+        }
+        public void findEquals(List<Bubble> list, Bubble bubble)
+        {
+            bubble.findNeighbors();
+            foreach (Bubble bubble1 in bubble.Neighbors)
+            {
+                if (Color == bubble1.Color && !list.Contains(bubble1))
+                {
+                    bubble1.destroyed = true;
+                    list.Add(bubble1);
+                    findEquals(list, bubble);
+                }
+            }
+        }

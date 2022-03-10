@@ -1,0 +1,274 @@
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.AssemblyReference.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfoInputs.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfo.cs
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CoreCompileInputs.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.deps.json
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.json
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.dev.json
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CopyComplete
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Bubble.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Arrow.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Blue.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Green.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Red.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Yellow.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.Collisions.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content/spaceship.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content/pointtext.xnb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Bubble.xnb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content/pointtext.xnb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content/spaceship.xnb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Arrow.xnb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Blue.xnb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Green.xnb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Red.xnb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Yellow.xnb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.exe
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.deps.json
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.json
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.dev.json
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.pdb
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.Collisions.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.AssemblyReference.cache
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfoInputs.cache
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfo.cs
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CoreCompileInputs.cache
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CopyComplete
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache
+C:/Users/Windows/Desktop/Game_pro/qe/BobbleShooter/BobbleShooter/bin/Debug/netcoreapp3.1/Content/explosion.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Bubble.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content/explosion.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content/pointtext.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content/spaceship.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Arrow.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Blue.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Green.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Red.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Yellow.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.deps.json
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.json
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.dev.json
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.Collisions.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.AssemblyReference.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfoInputs.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfo.cs
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CoreCompileInputs.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CopyComplete
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Bubble.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content/explosion.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content/pointtext.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content/spaceship.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Arrow.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Blue.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Green.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Red.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Yellow.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.deps.json
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.json
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.dev.json
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.Collisions.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.AssemblyReference.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfoInputs.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfo.cs
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CoreCompileInputs.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CopyComplete
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Arrow.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Blue.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Green.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Red.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_7/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Yellow.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Bubble.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/explosion.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/pointtext.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/spaceship.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Arrow.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Arrow.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Blue.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Blue.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Green.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Green.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Red.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Red.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Yellow.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Yellow.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.deps.json
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.json
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.dev.json
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.Collisions.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.AssemblyReference.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfoInputs.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfo.cs
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CoreCompileInputs.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CopyComplete
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Bubble.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/explosion.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/File.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/pointtext.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Roof.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content/spaceship.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Arrow.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Arrow.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Blue.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Blue.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Green.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Green.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Red.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Red.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Yellow.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Yellow.xnb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.exe
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.deps.json
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.json
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.dev.json
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.pdb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.Collisions.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.AssemblyReference.cache
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfoInputs.cache
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfo.cs
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CoreCompileInputs.cache
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CopyComplete
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
+C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Bubble.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/File.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/pointtext.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Roof.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/spaceship.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Arrow.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Arrow.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Blue.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Blue.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Green.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Green.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Red.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Red.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 2/Bubble_Yellow.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content 3/Bubble_Yellow.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.deps.json
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.json
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.dev.json
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.Collisions.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.AssemblyReference.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfoInputs.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfo.cs
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CoreCompileInputs.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CopyComplete
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/BG.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/leftLine.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/rightLine.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/explosion.xnb
+/Volumes/Aomms/ComputerGameProgramming/BobbleShooter_8 3/BobbleShooter/bin/Debug/netcoreapp3.1/Content/box.xnb
