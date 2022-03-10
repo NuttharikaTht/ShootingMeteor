@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8 3 2/BobbleShooter/Content/Fonts/Orbittron_24_Bold.spritefont</SourceFile>
+  <SourceTime>2022-03-10T19:48:24.4975363+07:00</SourceTime>
+  <DestFile>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/BobbleShooter_8 3 2/BobbleShooter/Content/bin/DesktopGL/Content/Fonts/Orbittron_24_Bold.xnb</DestFile>
+  <DestTime>2022-03-10T19:49:16.9701358+07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

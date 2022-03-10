@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Fonts/Orbitron_Button.spritefont</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Fonts/Orbitron_24_Bold.spritefont</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Fonts/Orbitron.spritefont</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/GameObject/bubble.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/GameObject/explosion.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/GameObject/pointtext.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/GameObject/Roof.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/GameObject/spaceship.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Interface/button.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Interface/restart_button.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Interface/quit_button.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Interface/leftLine.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Interface/rightLine.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Interface/box.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Screen/BG.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/Content/Screen/Black.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

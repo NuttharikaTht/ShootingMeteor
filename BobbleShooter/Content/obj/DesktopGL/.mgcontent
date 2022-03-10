@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/Content/bubble.png</File>
+    <File>C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/Content/explosion.png</File>
+    <File>C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/Content/File.spritefont</File>
+    <File>C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/Content/pointtext.png</File>
+    <File>C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/Content/Roof.png</File>
+    <File>C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/Content/spaceship.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
