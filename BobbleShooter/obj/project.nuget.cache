@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "g45RKvtCPRHZS4DvSS9ALKlSgE13mUga3fXHAJX1LOfZVPuLQ+Na62OFi7ZtxIPuQjAxgEJK5hVx3+gtKoSKZw==",
+  "dgSpecHash": "5Witt3RWjx5LeDxmnrA+acol4vdlOEE2aQ/VwSAQY85gKdfsIUz4zMzgFcfqoIcA64IrZEOz6vZ+9PKIHU8Xkg==",
   "success": true,
-  "projectFilePath": "/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/BobbleShooter.csproj",
+  "projectFilePath": "C:\\Users\\LILIN\\source\\repos\\ShootingMeteor\\New folder\\BobbleShooter\\BobbleShooter.csproj",
   "expectedPackageFiles": [
-    "/Users/nirattisai/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
-    "/Users/nirattisai/.nuget/packages/monogame.extended/3.8.0/monogame.extended.3.8.0.nupkg.sha512",
-    "/Users/nirattisai/.nuget/packages/monogame.extended.collisions/3.8.0/monogame.extended.collisions.3.8.0.nupkg.sha512",
-    "/Users/nirattisai/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
-    "/Users/nirattisai/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\LILIN\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\LILIN\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\LILIN\\.nuget\\packages\\monogame.extended.collisions\\3.8.0\\monogame.extended.collisions.3.8.0.nupkg.sha512",
+    "C:\\Users\\LILIN\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\LILIN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LILIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
   ],
   "logs": []
 }

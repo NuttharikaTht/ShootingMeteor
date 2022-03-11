@@ -1,7 +1,9 @@
 ﻿using BobbleShooter.Controls;
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
 
 using System;
 using System.Collections.Generic;
@@ -56,11 +58,44 @@ namespace BobbleShooter
 
         Rectangle leftLine, topLine, rightLine, downLine;
 
+
+        //audio
+
+        public Dictionary<string, SoundEffect> soundEffect;
+        public Dictionary<string, SoundEffectInstance> soundEffecttInstance;
+        public Song backgroundMusic;
         // game state :: create game state
         GameState state;
 
         //load level :: The variable that will store the current level and the Level Manager is created
         AdministratorLevels levelManager;
+
+        public void LoadAudio()
+        {
+            soundEffect = new Dictionary<string, SoundEffect>
+            {
+                {"Shoot", Content.Load<SoundEffect>("sound/shoot") },
+                {"Explode", Content.Load<SoundEffect>("sound/explode") },
+                {"Rooflower", Content.Load<SoundEffect>("sound/rooflower") },
+                {"Lose", Content.Load<SoundEffect>("sound/lose") }
+
+            };
+
+            soundEffecttInstance = new Dictionary<string, SoundEffectInstance>();
+            foreach (KeyValuePair<string, SoundEffect> item in soundEffect)
+            {
+                soundEffecttInstance.Add(item.Key, item.Value.CreateInstance());
+                soundEffecttInstance[item.Key].Volume = 0.2f;
+            }
+            backgroundMusic = Content.Load<Song>("sound/bg");
+            backgroundMusic = Content.Load<Song>("sound/bg1");
+            backgroundMusic = Content.Load<Song>("sound/bg2");
+
+
+            MediaPlayer.Volume = 0.6f;
+            MediaPlayer.IsRepeating = true;
+        }
+
 
         public bubbleShooter()
         {
@@ -124,6 +159,9 @@ namespace BobbleShooter
             Overlay = this.Content.Load<Texture2D>("Screen/Black");
             Box = this.Content.Load<Texture2D>("Interface/box");
 
+            //audio
+            LoadAudio();
+            MediaPlayer.Play(backgroundMusic);
             var quitButton = new Button(Content.Load<Texture2D>("Interface/quit_button"), Content.Load<SpriteFont>("Fonts/Orbitron_Button"))
             {
                 Position = new Vector2(20, 520),
@@ -259,10 +297,12 @@ namespace BobbleShooter
                 foreach (Bubble bubble1 in bubbleFall)
                 {
                     //เริ่มระเบิด
+                    soundEffecttInstance["Explode"].Stop();
                     particles.pos_Transmitter = bubble1.Position;
 
                     particles.startParticle(10, 1.5f, 40, bubble1.Color);
                     destroyBubbles.Add(bubble1);
+                    soundEffecttInstance["Explode"].Play();
                 }
                 Singleton.Instance.Score += destroyBubbles.Count * 100;
                 foreach (Bubble bubble1 in destroyBubbles)
@@ -293,12 +333,13 @@ namespace BobbleShooter
                 
                 if (Keyboard.GetState().IsKeyDown(Keys.Space))
                 {
+                    soundEffecttInstance["Shoot"].Stop();
                     bubbleLaunched.moving = true;
 
                     Matrix matrix = Matrix.CreateRotationZ(rotation);
                     bubbleLaunched.Direction.X += matrix.M12 * 1.5f;
                     bubbleLaunched.Direction.Y -= matrix.M11 * 1.5f;
-                    
+                    soundEffecttInstance["Shoot"].Play();
                     if (TimeRoofLower == 10)
                     {
                         Rooflower++;
@@ -306,6 +347,7 @@ namespace BobbleShooter
                         TimeRoofLower = 0;
                         foreach (Bubble bb in bubbleStuck)
                         {
+                            soundEffecttInstance["Rooflower"].Play();
                             bb.pos_bubbleBox = new Vector2(bb.pos_bubbleBox.X, bb.pos_bubbleBox.Y + 1);
                             bb.Position = bubbleBox((Int32)bb.pos_bubbleBox.X, (Int32)bb.pos_bubbleBox.Y);
                         }
@@ -406,6 +448,7 @@ namespace BobbleShooter
             }
 
             if (state == GameState.lose) {
+                soundEffecttInstance["Lose"].Play();
                 _spriteBatch.Draw(Overlay, Vector2.Zero, new Color(255, 255, 255, 210));
                 fontSize = Orbitron_24B.MeasureString("GameOver !!");
                 _spriteBatch.DrawString(Orbitron_24B, "GameOver !!", new Vector2(Singleton.Instance.Diemensions.X, Singleton.Instance.Diemensions.Y - 200) / 2 - fontSize / 2, Color.White);
@@ -440,6 +483,7 @@ namespace BobbleShooter
 
         private void RestartGame(bool isRestart)
         {
+            soundEffecttInstance["Lose"].Stop();
             if (isRestart)
             {
                 if (int.Parse(Singleton.Instance.BestScore) < Singleton.Instance.Score)
@@ -559,6 +603,7 @@ namespace BobbleShooter
                 
                 foreach (Bubble bb in bubbleStuck)
                 {
+                    soundEffecttInstance["Rooflower"].Play();
                     bb.pos_bubbleBox = new Vector2(bb.pos_bubbleBox.X, bb.pos_bubbleBox.Y + 1);
                     bb.Position = bubbleBox((Int32)bb.pos_bubbleBox.X, (Int32)bb.pos_bubbleBox.Y);
                 }

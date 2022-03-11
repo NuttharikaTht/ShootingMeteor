@@ -294,24 +294,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/nirattisai/.nuget/packages/": {}
+    "C:\\Users\\LILIN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/BobbleShooter.csproj",
+      "projectUniqueName": "C:\\Users\\LILIN\\source\\repos\\ShootingMeteor\\New folder\\BobbleShooter\\BobbleShooter.csproj",
       "projectName": "BobbleShooter",
-      "projectPath": "/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/BobbleShooter.csproj",
-      "packagesPath": "/Users/nirattisai/.nuget/packages/",
-      "outputPath": "/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/obj/",
+      "projectPath": "C:\\Users\\LILIN\\source\\repos\\ShootingMeteor\\New folder\\BobbleShooter\\BobbleShooter.csproj",
+      "packagesPath": "C:\\Users\\LILIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LILIN\\source\\repos\\ShootingMeteor\\New folder\\BobbleShooter\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/nirattisai/.config/NuGet/NuGet.Config"
+        "C:\\Users\\LILIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -353,12 +363,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.23, 3.1.23]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

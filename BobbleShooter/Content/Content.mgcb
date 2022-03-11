@@ -13,12 +13,12 @@
 
 #---------------------------------- Content ---------------------------------#
 
-#begin Fonts/Orbitron_Button.spritefont
+#begin Fonts/Orbitron.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
 /processorParam:PremultiplyAlpha=True
 /processorParam:TextureFormat=Compressed
-/build:Fonts/Orbitron_Button.spritefont
+/build:Fonts/Orbitron.spritefont
 
 #begin Fonts/Orbitron_24_Bold.spritefont
 /importer:FontDescriptionImporter
@@ -27,12 +27,12 @@
 /processorParam:TextureFormat=Compressed
 /build:Fonts/Orbitron_24_Bold.spritefont
 
-#begin Fonts/Orbitron.spritefont
+#begin Fonts/Orbitron_Button.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
 /processorParam:PremultiplyAlpha=True
 /processorParam:TextureFormat=Compressed
-/build:Fonts/Orbitron.spritefont
+/build:Fonts/Orbitron_Button.spritefont
 
 #begin GameObject/bubble.png
 /importer:TextureImporter
@@ -94,6 +94,18 @@
 /processorParam:TextureFormat=Color
 /build:GameObject/spaceship.png
 
+#begin Interface/box.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Interface/box.png
+
 #begin Interface/button.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -105,30 +117,6 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Interface/button.png
-
-#begin Interface/restart_button.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:Interface/restart_button.png
-
-#begin Interface/quit_button.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:Interface/quit_button.png
 
 #begin Interface/leftLine.png
 /importer:TextureImporter
@@ -142,6 +130,30 @@
 /processorParam:TextureFormat=Color
 /build:Interface/leftLine.png
 
+#begin Interface/quit_button.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Interface/quit_button.png
+
+#begin Interface/restart_button.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Interface/restart_button.png
+
 #begin Interface/rightLine.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -153,18 +165,6 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Interface/rightLine.png
-
-#begin Interface/box.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:Interface/box.png
 
 #begin Screen/BG.png
 /importer:TextureImporter
@@ -189,4 +189,46 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Screen/Black.png
+
+#begin sound/bg.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:sound/bg.mp3
+
+#begin sound/bg1.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:sound/bg1.mp3
+
+#begin sound/bg2.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:sound/bg2.mp3
+
+#begin sound/explode.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/explode.mp3
+
+#begin sound/lose.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/lose.mp3
+
+#begin sound/Rooflower.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/Rooflower.mp3
+
+#begin sound/shoot.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/shoot.mp3
 
