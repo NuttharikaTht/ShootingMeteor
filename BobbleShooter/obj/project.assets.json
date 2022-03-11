@@ -294,34 +294,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LILIN\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/nirattisai/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LILIN\\source\\repos\\ShootingMeteor\\New folder\\BobbleShooter\\BobbleShooter.csproj",
+      "projectUniqueName": "/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/BobbleShooter.csproj",
       "projectName": "BobbleShooter",
-      "projectPath": "C:\\Users\\LILIN\\source\\repos\\ShootingMeteor\\New folder\\BobbleShooter\\BobbleShooter.csproj",
-      "packagesPath": "C:\\Users\\LILIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LILIN\\source\\repos\\ShootingMeteor\\New folder\\BobbleShooter\\obj\\",
+      "projectPath": "/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/BobbleShooter.csproj",
+      "packagesPath": "/Users/nirattisai/.nuget/packages/",
+      "outputPath": "/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\LILIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/nirattisai/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://teamcity.monogame.net/guestAuth/app/nuget/feed/_Root/default/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -363,18 +354,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -4,29 +4,29 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Fonts/Orbitron.spritefont</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Fonts/Orbitron_24_Bold.spritefont</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Fonts/Orbitron_Button.spritefont</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/GameObject/bubble.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/GameObject/explosion.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/GameObject/pointtext.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/GameObject/Roof.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/GameObject/spaceship.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Interface/box.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Interface/button.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Interface/leftLine.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Interface/quit_button.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Interface/restart_button.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Interface/rightLine.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Screen/BG.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/Screen/Black.png</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/sound/bg.mp3</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/sound/bg1.mp3</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/sound/bg2.mp3</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/sound/explode.mp3</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/sound/lose.mp3</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/sound/Rooflower.mp3</File>
-    <File>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/sound/shoot.mp3</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Fonts/Orbitron.spritefont</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Fonts/Orbitron_24_Bold.spritefont</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Fonts/Orbitron_Button.spritefont</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/GameObject/bubble.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/GameObject/explosion.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/GameObject/pointtext.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/GameObject/Roof.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/GameObject/spaceship.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Interface/box.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Interface/button.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Interface/leftLine.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Interface/quit_button.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Interface/restart_button.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Interface/rightLine.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Screen/BG.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/Screen/Black.png</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/sound/bg.mp3</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/sound/bg1.mp3</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/sound/bg2.mp3</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/sound/explode.mp3</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/sound/lose.mp3</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/sound/Rooflower.mp3</File>
+    <File>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/sound/shoot.mp3</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

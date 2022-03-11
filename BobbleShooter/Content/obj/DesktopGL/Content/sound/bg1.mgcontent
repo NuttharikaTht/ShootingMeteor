@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/sound/bg1.mp3</SourceFile>
-  <SourceTime>2022-03-11T13:38:02.9202205+07:00</SourceTime>
-  <DestFile>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/bin/DesktopGL/Content/sound/bg1.xnb</DestFile>
-  <DestTime>2022-03-11T16:02:01.387613+07:00</DestTime>
+  <SourceFile>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/sound/bg1.mp3</SourceFile>
+  <SourceTime>2022-03-11T16:46:55.3115581+07:00</SourceTime>
+  <DestFile>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/bin/DesktopGL/Content/sound/bg1.xnb</DestFile>
+  <DestTime>2022-03-11T16:49:07.2338355+07:00</DestTime>
   <Importer>Mp3Importer</Importer>
-  <ImporterTime>2020-08-10T23:17:54+07:00</ImporterTime>
+  <ImporterTime>2020-08-10T16:17:54+07:00</ImporterTime>
   <Processor>SongProcessor</Processor>
-  <ProcessorTime>2020-08-10T23:17:54+07:00</ProcessorTime>
+  <ProcessorTime>2020-08-10T16:17:54+07:00</ProcessorTime>
   <Parameters>
     <Key>Quality</Key>
     <Value>Best</Value>
@@ -15,6 +15,6 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput>
-    <string>C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/Content/bin/DesktopGL/Content/sound/bg1.ogg</string>
+    <string>/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/Content/bin/DesktopGL/Content/sound/bg1.ogg</string>
   </BuildOutput>
 </PipelineBuildEvent>

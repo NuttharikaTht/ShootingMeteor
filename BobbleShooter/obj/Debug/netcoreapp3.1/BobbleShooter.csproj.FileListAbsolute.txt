@@ -401,58 +401,112 @@ C:/Users/LILIN/Desktop/sty/comGAME/New folder/BobbleShooter_8/BobbleShooter/obj/
 /Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
 /Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
 /Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\File.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Fonts\Orbittron_24_Bold.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Fonts\Orbitron.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Fonts\Orbitron_24_Bold.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Fonts\Orbitron_Button.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\GameObject\bubble.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\GameObject\explosion.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\GameObject\pointtext.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\GameObject\Roof.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\GameObject\spaceship.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Interface\box.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Interface\button.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Interface\leftLine.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Interface\quit_button.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Interface\restart_button.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Interface\rightLine.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Screen\BG.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\Screen\Black.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\BobbleShooter.exe
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\BobbleShooter.deps.json
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\BobbleShooter.runtimeconfig.json
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\BobbleShooter.runtimeconfig.dev.json
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\BobbleShooter.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\BobbleShooter.pdb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\MonoGame.Extended.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\MonoGame.Extended.Collisions.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\obj\Debug\netcoreapp3.1\BobbleShooter.csproj.AssemblyReference.cache
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\obj\Debug\netcoreapp3.1\BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\obj\Debug\netcoreapp3.1\BobbleShooter.AssemblyInfoInputs.cache
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\obj\Debug\netcoreapp3.1\BobbleShooter.AssemblyInfo.cs
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\obj\Debug\netcoreapp3.1\BobbleShooter.csproj.CoreCompileInputs.cache
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\obj\Debug\netcoreapp3.1\BobbleShooter.csproj.CopyComplete
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\obj\Debug\netcoreapp3.1\BobbleShooter.dll
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\obj\Debug\netcoreapp3.1\BobbleShooter.pdb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\obj\Debug\netcoreapp3.1\BobbleShooter.genruntimeconfig.cache
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\bg.ogg
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\bg.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\bg1.ogg
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\bg1.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\bg2.ogg
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\bg2.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\explode.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\lose.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\Rooflower.xnb
-C:\Users\LILIN\source\repos\ShootingMeteor\New folder\BobbleShooter\bin\Debug\netcoreapp3.1\Content\sound\shoot.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/File.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Fonts/Orbittron_24_Bold.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Fonts/Orbitron.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Fonts/Orbitron_24_Bold.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Fonts/Orbitron_Button.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/bubble.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/explosion.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/pointtext.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/Roof.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/spaceship.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/box.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/button.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/leftLine.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/quit_button.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/restart_button.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/rightLine.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Screen/BG.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Screen/Black.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.exe
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.deps.json
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.json
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.dev.json
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.pdb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.Collisions.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.AssemblyReference.cache
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfoInputs.cache
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfo.cs
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CoreCompileInputs.cache
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CopyComplete
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg.ogg
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg1.ogg
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg1.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg2.ogg
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg2.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/explode.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/lose.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/Rooflower.xnb
+C:/Users/LILIN/source/repos/ShootingMeteor/New folder/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/shoot.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/File.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Fonts/Orbittron_24_Bold.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Fonts/Orbitron.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Fonts/Orbitron_24_Bold.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Fonts/Orbitron_Button.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/bubble.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/explosion.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/pointtext.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/Roof.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/GameObject/spaceship.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/box.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/button.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/leftLine.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/quit_button.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/restart_button.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Interface/rightLine.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Screen/BG.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/Screen/Black.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg.ogg
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg1.ogg
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg1.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg2.ogg
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/bg2.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/explode.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/lose.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/Rooflower.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Content/sound/shoot.xnb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.deps.json
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.json
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.runtimeconfig.dev.json
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Extended.Collisions.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.AssemblyReference.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfoInputs.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.AssemblyInfo.cs
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CoreCompileInputs.cache
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.csproj.CopyComplete
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.dll
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.pdb
+/Users/nirattisai/Documents/kmitl/year 3/term 2/com game/ultimate_test/ShootingMeteor/BobbleShooter/obj/Debug/netcoreapp3.1/BobbleShooter.genruntimeconfig.cache

@@ -110,7 +110,7 @@ namespace BobbleShooter
             _graphics.PreferredBackBufferWidth = (int)Singleton.Instance.Diemensions.X;
             _graphics.PreferredBackBufferHeight = (int)Singleton.Instance.Diemensions.Y;
             _graphics.ApplyChanges();
-            Window.Title = "ShootingMeteor";
+            Window.Title = "Shooting Meteor";
 
             _Color = new Color(255, 255, 255, alpha);
             
@@ -715,8 +715,7 @@ namespace BobbleShooter
                 Rooflower = 0;
                 TimeRoofLower = 0;
                 Vector2 PositionBubble = bubbleBox((int)bub.pos_bubbleBox.X, (int)bub.pos_bubbleBox.Y);
-                Console.WriteLine(bub.isDestroy);
-                //bub.isDestroy = false;
+                
                 bub.Position = PositionBubble;
                 pasteBubble(bub);
                 //bubbleStuck.Add(b);
